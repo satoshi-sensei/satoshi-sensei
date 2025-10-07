@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Satoshi-Sensei, and I'm a software developer from Earth</h2>
+<h2 align="left">Hi 👋! My name is Satoshi-sensei, and I'm a software developer from Earth</h2>
 
 ###
 
